@@ -1,6 +1,6 @@
  var swiper = new Swiper('.swiper-container', {
       direction: 'horizontal',
-      speed: 3000,
+      speed: 500,
       autoplay: true,
       grabCursor:true,
       arrrow:true,
